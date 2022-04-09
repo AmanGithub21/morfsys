@@ -1,0 +1,33 @@
+* {
+  color: rgb(25, 36, 81);
+}
+
+.AuthForm {
+  text-align: left;
+  margin: 100px 100px 10px 100px;
+}
+
+.AuthForm h2 {
+  margin-top: 30px;
+}
+
+.type-input {
+  border-bottom: 2px solid rgb(25, 36, 81);
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-radius: 0;
+  padding: 0;
+}
+
+.submit-btn {
+  /* border-radius: 0; */
+  background-color: rgb(25, 36, 81);
+  padding: 0.5rem 3rem;
+  font-size: 1.2rem;
+}
+
+.label {
+  font-weight: bolder;
+  color: blue;
+}
